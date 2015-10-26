@@ -1,0 +1,2 @@
+# Android_2_Lecture_4_listview
+პრაქტიკულის მაგალითი
